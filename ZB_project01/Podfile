@@ -1,0 +1,10 @@
+platform :ios, '11.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ZB_project01' do
+	pod 'Alamofire'
+	pod 'SnapKit'
+	pod 'HandyJSON'
+	pod 'Kingfisher'
+end
